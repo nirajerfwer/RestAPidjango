@@ -10,3 +10,6 @@ POST method:
   http://127.0.0.1:8000/Addxlsxdata ## this will add all data precent in xlsx file
 DELETE method:
   http://127.0.0.1:8000/first_name  ###delete purticular user data permanantry
+
+TO do :
+change the location of xlsx file to add data in database in python views.py file
